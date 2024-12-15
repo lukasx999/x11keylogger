@@ -1,4 +1,6 @@
 # Prerequisites
+out
+keystrokes.txt
 *.d
 
 # Object files
